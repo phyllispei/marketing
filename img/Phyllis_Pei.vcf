@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Pei;Phyllis
+FN:Phyllis Pei
+ORG:Douglas Elliman
+TITLE:Licensed Associate Real Estate Broker
+NOTE;ENCODING=QUOTED-PRINTABLE:Douglas Elliman=0D=0Ahttp://www.elliman.com=0D=0A
+TEL;WORK;VOICE:646.871.4436
+TEL;CELL;VOICE:917.882.4439
+TEL;WORK;FAX:917.265.4771
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;;Douglas Elliman=0D=0A205 East 42nd St;New York;NY;10017;United States of America
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:Douglas Elliman=0D=0A205 East 42nd St=0D=0ANew York, NY 10017=0D=0AUnited States of America
+URL;WORK:http://www.elliman.com/real-estate-agent/phyllis-pei/2416
+EMAIL;PREF;INTERNET:phyllis.pei@elliman.com
+REV:20150510T000042Z
+End:VCARD

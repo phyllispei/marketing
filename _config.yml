@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Marvin's Marketing Page"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A marketing page for Marvin"
+title:       "菲利斯 - Douglas Elliman"
+keywords:    "Elliman"
+description: "A marketing page for Phyllis"
 source_link: "https://github.com/fengtingzhang/marketing"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
