@@ -1,6 +1,7 @@
 html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 
+
 /* ---------------------------*/
 /* ----- Special Styles ----- */
 /* ---------------------------*/
@@ -170,15 +171,14 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
+  padding:160px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+  padding-top: 50px;
 }
-
 
 #footer {
   padding: 8px 0;
