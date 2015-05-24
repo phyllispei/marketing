@@ -27,9 +27,6 @@ source_link: "https://github.com/fengtingzhang/marketing"
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
+  white:     '#fff'
   blue:      '#405767'
-  green:     '#20664B'
-  purple:    '#443142'
-  orange:    '#20664B'
-  turquoise: '#0fbfcf'
+  orange:    '#EF7022'
